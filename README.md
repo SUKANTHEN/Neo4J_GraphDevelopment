@@ -50,5 +50,5 @@
 
 ### 4. Create Graph using Cypher Query
 
-* Run the Cypher query present in `cypher_query/query.cql` file. This query will create the necessary graph as shown in `results/` folder. 
+* Run the Cypher query present in `cypher_query/query.cql` file. This query will create the necessary graph as shown in `results/` folder.
 
